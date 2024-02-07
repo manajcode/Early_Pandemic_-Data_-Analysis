@@ -1,0 +1,41 @@
+TITLE: Microsoft SQL Server Management Studio for death
+------------------------------
+
+Up to 45004 cells of data may have been dropped during insert from the following columns:
+new_cases_smoothed
+new_deaths_smoothed
+total_cases_per_million
+new_cases_per_million
+new_cases_smoothed_per_million
+new_deaths_per_million
+new_deaths_smoothed_per_million
+reproduction_rate
+median_age
+gdp_per_capita
+diabetes_prevalence
+hospital_beds_per_thousand
+life_expectancy 
+
+------------------------------
+BUTTONS:
+
+OK
+------------------------------
+
+
+
+TITLE: Microsoft SQL Server Management Studio for vacine
+------------------------------
+
+Up to 44415 cells of data may have been dropped during insert from the following columns:
+median_age
+gdp_per_capita
+diabetes_prevalence
+hospital_beds_per_thousand
+life_expectancy 
+
+------------------------------
+BUTTONS:
+
+OK
+------------------------------
